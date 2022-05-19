@@ -19,7 +19,7 @@ public class NotOrtalamasiHesaplama {
         System.out.print("Fizik notunuzu girin: ");
         fizik = input.nextInt();
 
-        System.out.print("Fizik notunuzu girin: ");
+        System.out.print("Türkçe notunuzu girin: ");
         turkce = input.nextInt();
 
         System.out.print("Edebiyat notunuzu girin: ");
